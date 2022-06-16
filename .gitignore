@@ -1,1 +1,4 @@
-ide-config.txt
+ide-config*
+/config/
+/node_modules
+.class
